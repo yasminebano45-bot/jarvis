@@ -1,0 +1,9 @@
+
+  geminiApiKey: "AIzaSyBU3iI9n6ydHrvi_zBXMYg9z9ceEYU70Ts", // Add your Gemini API key
+      googleSearchApiKey: "AIzaSyC_m-H_5qA5x45prSXgAh7oeBjL4HEbMLg", // Add your Google Search API key
+      googleSearchEngineId: "33d0b0a677e594545", // Add your Custom Search Engine ID
+    <script async src="https://cse.google.com/cse.js?cx=33d0b0a677e594545">
+</script>
+<div class="gcse-search"></div>
+RAILWAY APP DOMAIN LINK
+jarvis-ai-assistant-production.up.railway.app
